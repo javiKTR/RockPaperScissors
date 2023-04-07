@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    margin: 25% 20%;
+}
+
+.option {
+    margin: 10px;
+}
+
+.img-responsive {
+    max-width: 25%;
+    height: auto;
+}
